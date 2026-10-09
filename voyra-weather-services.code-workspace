@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {
+      "name": "data-service",
+      "path": "data-service"
+    },
+    {
+      "name": "tile-service",
+      "path": "tile-service"
+    },
+    {
+      "name": "grid-service",
+      "path": "grid-service"
+    }
+  ],
+  "settings": {
+    "cSpell.words": [
+      "prmls",
+      "prmsl"
+    ]
+  }
+}
